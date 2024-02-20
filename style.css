@@ -21,15 +21,16 @@
 }
 
 button {
-  background-color: azure;
   border: none;
 
   font-family: "Inter", sans-serif;
-  font-size: 3vh;
+  font-weight: 900;
+  font-size: 5vh;
   border-radius: 20px;
 
   padding: 20px 30px;
 }
 button > a {
+  color: black;
   text-decoration: none;
 }
